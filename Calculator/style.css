@@ -7,6 +7,12 @@ table{
     margin: auto;
 }
 
+a{
+    colour:#f65a5a;
+    font-weight: bold;
+    text-decoration: underline;
+    cursor: pointer;}
+
 input{
     border-radius: 21px;
     border: 5px solid #83c7d3;
