@@ -1,1 +1,1 @@
-   # CALCULATOR MAde By ANUP    
+   # CALCULATOR MADe By ANUP    
